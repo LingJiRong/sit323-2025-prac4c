@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SIT323/SIT737 - Task 4.2C: Enhanced Calculator Microservice
 
 ## Overview
@@ -76,3 +77,6 @@ node index.js
 Ling  
 SIT323/SIT737 – Cloud Native Application Development  
 Deakin University
+=======
+# sit323-2025-prac4c
+>>>>>>> 3fac4df0c1a26b3862bb99c03c19a99f61ffc11b
